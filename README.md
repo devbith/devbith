@@ -1,10 +1,4 @@
 ### Hi there 👋 I’m Bishal Thapa. 
-
-- 👨‍💻 actively into software industry since 2017. 
-- 🤠 passionate about REST architecture, microservices, cloud computing, and different aspects of software design and development.
-- 🏄 constantly in the motion to learn and improve skill set.
-- 📒 making effort to <a href="https://github.com/devbith/notes"> write, share and document</a> things that I learn or went through.
-
 <!--
 **devbith/devbith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
